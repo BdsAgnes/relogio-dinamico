@@ -11,7 +11,17 @@ section{
     border-radius: 10px;
     padding: 15px;
     width: 500px;
+    margin: auto;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.363);
+    
+}
+div{
+    text-align: center;
+    padding: 5px;
+}
+.tamanho{
+    width: 360px;
+    margin: 5px;
 }
 
 footer{
